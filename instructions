@@ -1,0 +1,30 @@
+- go to gmail
+- click the 9 dots na mukhang square, icon yun
+- click Account
+- click Security
+scroll down until you see (Less Secure App Access)
+- click turn on access(not recommended)
+- turn on Allow less secure app: OFF
+
+
+
+
+-start xampp
+index.php
+
+
+sendEmail.php
+
+
+
+code.jquery.com/jquery/
+- scroll to Jquery Core - All 3.x Versions
+  - jQuery Core 3.4.1 - minified
+    - copy script code
+
+- paste in index.php file right before the end of body tag
+
+- then add script tag
+<script type="text/javascript">
+   
+</script>
